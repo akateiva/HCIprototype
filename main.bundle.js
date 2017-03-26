@@ -469,7 +469,7 @@ exports = module.exports = __webpack_require__(60)();
 
 
 // module
-exports.push([module.i, ".container {\n  position: fixed;\n  width: 100%;\n  height: 100%; }\n  .container .content {\n    color: white;\n    margin: 4em;\n    padding: 2em;\n    border-radius: 2em;\n    background-color: rgba(10, 10, 10, 0.95);\n    text-align: center;\n    min-height: 50%; }\n    .container .content a {\n      font-size: 2em;\n      color: #288c28;\n      -webkit-transition: 0.25s ease;\n      transition: 0.25s ease; }\n    .container .content a:hover {\n      color: #3cf03c; }\n", ""]);
+exports.push([module.i, ".container {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n  overflow: none; }\n  .container .content {\n    color: white;\n    margin: 2em;\n    padding: 2em;\n    border-radius: 2em;\n    background-color: rgba(10, 10, 10, 0.95);\n    text-align: center;\n    min-height: 50%; }\n    .container .content a {\n      font-size: 2em;\n      color: #288c28;\n      -webkit-transition: 0.25s ease;\n      transition: 0.25s ease; }\n    .container .content a:hover {\n      color: #3cf03c; }\n", ""]);
 
 // exports
 
