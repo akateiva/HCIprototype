@@ -352,27 +352,27 @@ var LabelingDialogComponent = (function () {
         this.datasets = [{
                 name: "Healthy People",
                 datapoints: [
-                    { image: 'assets/healthy1.jpg' },
-                    { image: 'assets/healthy2.jpg' },
-                    { image: 'assets/healthy3.jpg' },
-                    { image: 'assets/healthy4.jpg' },
+                    { image: 'assets/JPEG/healthy1.jpg' },
+                    { image: 'assets/JPEG/healthy2.jpg' },
+                    { image: 'assets/JPEG/healthy3.jpg' },
+                    { image: 'assets/JPEG/healthy4.jpg' },
                 ]
             }, {
                 name: "License plates",
                 datapoints: [
-                    { image: 'assets/lp1.jpg' },
-                    { image: 'assets/lp2.jpg' },
-                    { image: 'assets/lp3.jpg' },
-                    { image: 'assets/lp4.jpg' },
-                    { image: 'assets/lp5.jpg' }
+                    { image: 'assets/JPEG/lp1.jpg' },
+                    { image: 'assets/JPEG/lp2.jpg' },
+                    { image: 'assets/JPEG/lp3.jpg' },
+                    { image: 'assets/JPEG/lp4.jpg' },
+                    { image: 'assets/JPEG/lp5.jpg' }
                 ] }, {
                 name: "City Planning",
                 datapoints: [
-                    { image: 'assets/street1.png' },
-                    { image: 'assets/street2.png' },
-                    { image: 'assets/street3.png' },
-                    { image: 'assets/street4.png' },
-                    { image: 'assets/street5.png' }
+                    { image: 'assets/JPEG/street1.jpg' },
+                    { image: 'assets/JPEG/street2.jpg' },
+                    { image: 'assets/JPEG/street3.jpg' },
+                    { image: 'assets/JPEG/street4.jpg' },
+                    { image: 'assets/JPEG/street5.jpg' }
                 ] }
         ];
         this.question2 = "What sort of purpose does this facade serve?";
